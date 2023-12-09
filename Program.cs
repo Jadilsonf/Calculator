@@ -6,7 +6,7 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            Operations.Multiplicacao();
+            Operations.Menu();         
         }
     }
  }
